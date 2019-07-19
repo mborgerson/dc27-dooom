@@ -1,0 +1,12 @@
+*.d
+main.exe
+main.lib
+*.obj
+main.pdb
+bin/
+*.iso
+args.txt
+addrs.txt
+.gdbinit
+log.txt
+*.qcow2
