@@ -1,11 +1,11 @@
 [submodule "nxdk"]
 	path = nxdk
-	url = git@github.com:mborgerson/dc27-dooom-nxdk.git
+	url = https://github.com/mborgerson/dc27-dooom-nxdk.git
 	branch = doom
 [submodule "doom"]
 	path = doom
-	url = git@github.com:mborgerson/dc27-dooom-doom.git
+	url = https://github.com/mborgerson/dc27-dooom-doom.git
 	branch = xbox
 [submodule "freedoom"]
 	path = freedoom
-	url = git@github.com:mborgerson/dc27-dooom-freedoom.git
+	url = https://github.com/mborgerson/dc27-dooom-freedoom.git
