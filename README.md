@@ -43,7 +43,7 @@ How to Build the Client
 -----------------------
 The Xbox executable and WAD file is built within a Docker container. Clone and build with:
 
-    git clone --recursive -j8 ssh://git@github.com/mborgerson/dc27-dooom.git && pushd dc27-dooom && ./build.sh
+    git clone --recursive -j8 https://github.com/mborgerson/dc27-dooom.git && pushd dc27-dooom && ./build.sh
 
 How to Build the Server
 -----------------------
